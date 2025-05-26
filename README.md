@@ -11,8 +11,8 @@
 ### 1. Clone โปรเจกต์
 
 ```bash
-git clone https://github.com/your-username/nestjs-blog-clean-architecture.git
-cd nestjs-blog-clean-architecture
+git clone https://github.com/teeerapon/blog-api-clean-arch.git
+cd blog-api-clean-arch
 ```
 
 ### 2. ติดตั้ง dependencies
